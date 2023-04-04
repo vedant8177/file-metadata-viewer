@@ -15,6 +15,9 @@ app.get('/', function (req, res) {
 });
 
 app.post('/api/fileanalyse', upload.single('upfile'), (req, res) => {
+  if(!req.file) {
+    return res.status(404).json({ message: "Please upload a file!" });
+  }
   res.status(200).json({
     name: req.file.originalname,
     type: req.file.mimetype,
