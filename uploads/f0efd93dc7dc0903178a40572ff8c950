@@ -1,0 +1,84 @@
+# Front End
+[*] HTML
+[*] CSS
+
+# CSS Framework
+[*] Tailwind
+[*] Bootstrap
+
+# Programming Languages
+[*] Javascript
+[] Typescript
+[] Java
+[] Python
+
+# Back End
+[*] NPM
+[*] NodeJS
+[*] ExpressJS
+
+# JS Framework
+[] React JS
+[] Next JS
+[] Astro JS
+
+# React Framework
+[] Material UI
+[] Chakra UI
+
+# Essentials
+[] OAuth
+[] Rate timing
+[] Reverse proxy
+[] Load balancer
+[] Payment gateway
+
+# Back-End Concepts
+[] HTTP/HTTPS
+[] Websites
+[] MVC Architecture
+[] CI/CD
+[] Serverless
+
+# Version Control
+[*] Git
+
+# Security
+[*] Helmet
+[] CORS
+
+# API
+[*] REST
+[] GraphQL
+
+# Database Technology
+[*] SQL
+[*] MySQL
+[*] MongoDB
+[] Redis
+[] PostgreSQL
+
+# Others
+[] Docker
+[] Jest
+[*] Linux
+[] Webpack
+[] Documentation - Swagger
+
+
+# To Check Out
+[] Nest JS
+[] Socket.io
+
+# Projects
+
+[] Real-time chat app
+[] Restful API for Blog
+[] Web scraper using cherio
+[] URL shortner
+[] Weather application
+[] File upload and share app
+[] ecommerce web app
+[] Blog app with CMS
+[] Modern UI/UX design
+[] Premium landing page
